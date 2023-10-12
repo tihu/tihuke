@@ -1,8 +1,8 @@
-baseurl: https://lmm.pages.dev
+baseurl: https://tihu.me
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: 醍醐堂記_TihuBlog
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 持续性阅读，碎片化写作。
         avatar:
             enabled: false
             local: true
@@ -180,15 +180,9 @@ menu:
               icon: home
     
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-            icon: brand-github
-            
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/tihu
           params:
             icon: brand-twitter
 
